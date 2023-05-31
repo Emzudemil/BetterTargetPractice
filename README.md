@@ -1,6 +1,7 @@
 # BetterTargetPractice
  
 Rotation and Angle Utils from [MightyMiner](https://github.com/JellyLabScripts/MightyMiner/)
+Used the ForgeTemplate from [DxxxxY](https://github.com/DxxxxY/1.8.9ForgeTemplate) and didnt changed the package name now im to lazy to fix that
 
 ## How to use
 1. Install the mod
